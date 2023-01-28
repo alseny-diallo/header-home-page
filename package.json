@@ -1,0 +1,14 @@
+{
+  "name": "header-home-page",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/alseny-diallo/header-home-page.git",
+  "author": "alseny-diallo <alsenydiallo0409@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "sass": "sass --watch style/style.scss  style/style.css"
+  },
+  "dependencies": {
+    "sass": "^1.57.1"
+  }
+}
